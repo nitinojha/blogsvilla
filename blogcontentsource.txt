@@ -1,0 +1,7 @@
+education-https://www.brainscape.com/blog/2015/01/top-education-tech-blogs/
+health-http://food.ndtv.com/quick-tips
+health(general)-https://greatist.com/health/most-innovative-health-fitness-and-happiness-startups
+recipes-http://www.vegrecipesofindia.com/pani-puri-recipe-mumbai-pani-puri-recipe/
+technical-https://techcrunch.com/
+recipe(general)-https://www.tastemade.com/classes/in-the-kitchen-introduction-to-indian-cooking
+technical(general)-https://firstsiteguide.com/best-tech-blogs/
